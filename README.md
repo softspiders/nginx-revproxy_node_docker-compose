@@ -1,20 +1,15 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Minimalistic *JavaScript* starter
+# *Nginx* as a reverse proxy for *NodeJS* with *Docker Compose*
 
 ## Feature tags
 
-- javascript
+- docker-compose
+- nginx
+- node
+- reverse-proxy
 - starter
 - template
-
-## Children
-
-- [node-cli-starter](https://github.com/softspiders/node-cli-starter)
-- [jest-starter](https://github.com/softspiders/jest-starter)
-- [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
-- [+ ***app***: js-app-starter](https://github.com/softspiders/js-app-starter)
-- [+ ***github-actions***: js-github-actions](https://github.com/softspiders/js-github-actions)
 
 ---
 
@@ -26,14 +21,16 @@
 
 ## Requirements
 
-[Node.js](https://nodejs.org/en/download/package-manager/)
+- [Node.js](https://nodejs.org/en/download/package-manager/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
 
 ---
 
 ## Running
 
 ```sh
-node index
+docker-compose up
 ```
 
 ### License
