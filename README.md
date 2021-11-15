@@ -17,6 +17,10 @@
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
 
+## Inspiration
+
+Originate from [Docker compose example for NodeJS and Nginx Reverse Proxy](https://github.com/brycejech/node-docker-nginx)
+
 ---
 
 ## Requirements
