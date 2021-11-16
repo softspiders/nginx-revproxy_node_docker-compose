@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *Nginx* as a reverse proxy for *NodeJS* with *Docker Compose*
+# *Nginx* as a reverse proxy for *NodeJS* in *Docker Compose*
 
 ## Feature tags
 
