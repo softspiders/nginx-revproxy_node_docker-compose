@@ -13,6 +13,12 @@
 
 ---
 
+## Parents
+
+- [**- node, reverse-proxy**](https://github.com/AlexanderLapygin/nginx_docker-compose)
+
+---
+
 ## Author
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin) <<alexanderlapygin@gmail.com>>
