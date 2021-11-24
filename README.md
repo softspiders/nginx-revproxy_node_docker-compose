@@ -34,14 +34,20 @@ Originate from [Docker compose example for NodeJS and Nginx Reverse Proxy](https
 - [Node.js](https://nodejs.org/en/download/package-manager/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
-
 ---
 
 ## Running
 
+Execute 
 ```sh
 docker-compose up
 ```
+
+Then look at the [localhost](http://localhost) in browser. You should see a result like this:
+
+![img.png](runningResult.png)
+
+---
 
 ### License
 
